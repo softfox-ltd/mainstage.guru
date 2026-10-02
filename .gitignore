@@ -1,0 +1,8 @@
+# Source material kept locally only. The original photos contain GPS location data.
+*.jpeg
+*.JPG
+*.jpg
+!assets/img/*.jpg
+Patch list.png
+*logo*background*.png
+.DS_Store
